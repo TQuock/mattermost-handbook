@@ -1,5 +1,7 @@
 # Company Agreements
 
+Changes to this page must have approval from both the CEO and VP of Finance and Operations before being published.
+
 ## Who can sign on behalf of the company? 
 
 Company agreements should only be signed by CEO, Ian Tien, after the approval of a [Contract Accountability Owner \(or "CAO"\)](company-agreements.md#who-are-contract-accountability-owners-caos) with the following exceptions:
